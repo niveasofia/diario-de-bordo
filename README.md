@@ -1,6 +1,4 @@
-## Encontro nº I — [11/08/2026]
-
-**Curso:** Engenharia de Software
+## Encontro nº I — [11/08/2026] **Curso:** Engenharia de Software
 ---
 **Integrantes:**
 - Nivea Sofia de Cas
