@@ -15,19 +15,11 @@
 
 ---
 
-## Diário de Bordo
-
-| Data | Atividade realizada | Responsáveis |
-|---|---|---|
-| 11/08/2026 | Elaboração do diagrama Entidade-Relacionamento (ER) do sistema de biblioteca, definindo as entidades Usuário e Livros, seus atributos e o relacionamento Empresta com as respectivas cardinalidades. | Nivea Sofia de Cas, Yasmin Fernanda de Carvalho |
-
----
-
 ## O que é?
 
 Um método para garantir a **confidencialidade dos dados**.
 
-Quanto mais difícil o acesso e o uso ao banco de dados, mais seguro ele é, buscando restringir as permissões de usuários ao mínimo necessário.
+Quanto mais difícil o acesso e o uso ao banco de dados, mais seguro ele é — buscando restringir as permissões de usuários ao mínimo necessário.
 
 ---
 
@@ -35,7 +27,7 @@ Quanto mais difícil o acesso e o uso ao banco de dados, mais seguro ele é, bus
 
 Projetos secretos ainda em desenvolvimento podem vazar, outras pessoas podem fazer uso indevido e a empresa pode nunca mais se erguer por conta disso.
 
-> O vazamento de dados confidenciais tem um custo real, e que pode ser altíssimo.
+> O vazamento de dados confidenciais tem um custo real — e que pode ser altíssimo.
 > A empresa ainda deve arcar com custos para investigar as causas, além de poder ficar manchada e perder credibilidade.
 
 ---
