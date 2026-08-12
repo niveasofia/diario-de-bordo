@@ -1,6 +1,6 @@
 # Segurança do Banco de Dados
 
-> Resumo de estudo — conceitos, ameaças e medidas de proteção
+> Resumo de estudo / conceitos, ameaças e medidas de proteção
 
 ---
 
@@ -8,7 +8,7 @@
 
 Um método para garantir a **confidencialidade dos dados**.
 
-Quanto mais difícil o acesso e o uso ao banco de dados, mais seguro ele é — buscando restringir as permissões de usuários ao mínimo necessário.
+Quanto mais difícil o acesso e o uso ao banco de dados, mais seguro ele é, buscando restringir as permissões de usuários ao mínimo necessário.
 
 ---
 
@@ -37,7 +37,7 @@ Projetos secretos ainda em desenvolvimento podem vazar, outras pessoas podem faz
 
 | Ameaça | O que é |
 |---|---|
-| **Vulnerabilidades de software** | Falhas em softwares de gerenciamento exploradas por hackers — manter sistemas sempre atualizados |
+| **Vulnerabilidades de software** | Falhas em softwares de gerenciamento exploradas por hackers, manter sistemas sempre atualizados |
 | **Injeção SQL/NoSQL** | Comandos maliciosos inseridos em aplicações para acessar ou alterar dados |
 | **Estouro de buffer** | Um programa tenta armazenar mais dados do que a memória permite |
 | **Malware** | Programas maliciosos que exploram vulnerabilidades e causam danos |
