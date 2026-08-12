@@ -1,6 +1,31 @@
+# Modelo Entidade-Relacionamento — Sistema de Biblioteca
+
+**Curso:** Engenharia de Software
+**Integrantes:**
+- Nivea Sofia de Cas
+- Yasmin Fernanda de Carvalho
+
+---
+
+## Diagrama
+
+![Diagrama Entidade-Relacionamento do sistema de biblioteca](biblioteca.jpg)
+
+**Resumo:** o diagrama modela um sistema de biblioteca com as entidades **Usuário** (IdUsuário, Nome, Contato) e **Livros** (IdLivro, Nome, Autor, Genêro, QuantidadeEstoque), conectadas pelo relacionamento **Empresta**. A cardinalidade (1, 1) do lado de Usuário indica que cada empréstimo pertence a um único usuário; a cardinalidade (1, n) do lado de Livros indica que um empréstimo pode conter um ou mais livros.
+
+---
+
+## Diário de Bordo
+
+| Data | Atividade realizada | Responsáveis |
+|---|---|---|
+| 11/08/2026 | Elaboração do diagrama Entidade-Relacionamento (ER) do sistema de biblioteca, definindo as entidades Usuário e Livros, seus atributos e o relacionamento Empresta com as respectivas cardinalidades. | Nivea Sofia de Cas, Yasmin Fernanda de Carvalho |
+
+---
+
 # Segurança do Banco de Dados
 
-> Resumo de estudo / conceitos, ameaças e medidas de proteção
+> Resumo de estudo e conceitos, ameaças e medidas de proteção
 
 ---
 
@@ -37,7 +62,7 @@ Projetos secretos ainda em desenvolvimento podem vazar, outras pessoas podem faz
 
 | Ameaça | O que é |
 |---|---|
-| **Vulnerabilidades de software** | Falhas em softwares de gerenciamento exploradas por hackers, manter sistemas sempre atualizados |
+| **Vulnerabilidades de software** | Falhas em softwares de gerenciamento exploradas por hackers — manter sistemas sempre atualizados |
 | **Injeção SQL/NoSQL** | Comandos maliciosos inseridos em aplicações para acessar ou alterar dados |
 | **Estouro de buffer** | Um programa tenta armazenar mais dados do que a memória permite |
 | **Malware** | Programas maliciosos que exploram vulnerabilidades e causam danos |
@@ -81,4 +106,3 @@ Determinadas tratativas de segurança devem ser tomadas, de modo que se deve:
 ---
 
 <p align="center"><sub>Resumo de estudo — Segurança de Banco de Dados</sub></p>
-
