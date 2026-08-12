@@ -86,7 +86,7 @@ A segurança do banco de dados deve proteger não apenas o banco em si, mas tamb
 
 ![Diagrama Entidade-Relacionamento do sistema de biblioteca](biblioteca.jpg)
 
-**Resumo:** O diagrama modela um sistema de biblioteca com três entidades: **Usuário** (CPF, Nome, Contato, Endereço), **Movimentação** (IdMovimentação, Data, Tipo — que indica se é Empréstimo ou Devolução) e **Livros** (IdLivro, Nome, Autor, Gênero, QuantEstoque).
+**Resumo:** O diagrama modela um sistema de biblioteca com três entidades: **Usuário** (CPF, Nome, Contato, Endereço), **Movimentação** (IdMovimentação, Data, Tipo que indica se é Empréstimo ou Devolução) e **Livros** (IdLivro, Nome, Autor, Gênero, QuantEstoque).
 
 A entidade Usuário se conecta à entidade Movimentação através do relacionamento **Realiza**. A cardinalidade (1, n) do lado de Usuário indica que um usuário pode realizar uma ou várias movimentações. A cardinalidade (1, 1) do lado de Movimentação indica que cada movimentação é realizada por exatamente um único usuário.
 
