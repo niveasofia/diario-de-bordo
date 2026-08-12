@@ -1,4 +1,4 @@
-# Modelo Entidade-Relacionamento — Sistema de Biblioteca
+# O que é a segurança do banco de dados?
 
 **Curso:** Engenharia de Software
 **Integrantes:**
@@ -7,7 +7,7 @@
 
 ---
 
-## Diagrama
+## Diagrama — Modelo Entidade-Relacionamento (Sistema de Biblioteca)
 
 ![Diagrama Entidade-Relacionamento do sistema de biblioteca](biblioteca.jpg)
 
@@ -20,12 +20,6 @@
 | Data | Atividade realizada | Responsáveis |
 |---|---|---|
 | 11/08/2026 | Elaboração do diagrama Entidade-Relacionamento (ER) do sistema de biblioteca, definindo as entidades Usuário e Livros, seus atributos e o relacionamento Empresta com as respectivas cardinalidades. | Nivea Sofia de Cas, Yasmin Fernanda de Carvalho |
-
----
-
-# Segurança do Banco de Dados
-
-> Resumo de estudo e conceitos, ameaças e medidas de proteção
 
 ---
 
