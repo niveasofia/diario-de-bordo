@@ -1,6 +1,7 @@
 # O que é a segurança do banco de dados?
 
 **Curso:** Engenharia de Software
+---
 **Integrantes:**
 - Nivea Sofia de Cas
 - Yasmin Fernanda de Carvalho
